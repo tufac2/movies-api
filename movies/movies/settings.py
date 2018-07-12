@@ -121,4 +121,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-ALLOWED_HOSTS = ['movie-api-staging-fabian.herokuapp.com', 'movie-api-prod-fabian.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'movie-api-staging-fabian.herokuapp.com', 'movie-api-prod-fabian.herokuapp.com']
